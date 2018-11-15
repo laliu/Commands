@@ -1,4 +1,2 @@
 Añadir al estado de preparado
-
-
-git add <fitxer1>
+git add "fitcher1"
